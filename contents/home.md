@@ -1,4 +1,4 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![github](https://img.shields.io/badge/Scott--Sogayas-github-blue?logo=github)](https://github.com/Scott-Sogayas)
 
 I'm currently pursuing a Bachelor's degree in Artificial intelligence at the Department of Artificial Intelligence and Computers, North China University of Technology University.
 
